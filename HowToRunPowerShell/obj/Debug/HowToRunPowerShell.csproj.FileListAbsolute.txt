@@ -1,0 +1,8 @@
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\bin\Debug\HowToRunPowerShell.exe
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\bin\Debug\HowToRunPowerShell.pdb
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\obj\Debug\HowToRunPowerShell.csprojResolveAssemblyReference.cache
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\obj\Debug\HowToRunPowerShell.FormPowerShellSample.resources
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\obj\Debug\HowToRunPowerShell.Properties.Resources.resources
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\obj\Debug\HowToRunPowerShell.csproj.GenerateResource.Cache
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\obj\Debug\HowToRunPowerShell.exe
+D:\MEGAsync\ProjectNET\HowToRunPowerShell\HowToRunPowerShell\obj\Debug\HowToRunPowerShell.pdb
